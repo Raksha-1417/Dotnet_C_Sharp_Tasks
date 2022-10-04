@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Dotnet_C_Sharp_Tasks.Task14.Public_Main</StartupObject>
+    <StartupObject>Dotnet_C_Sharp_Tasks.Task17.CountLines_File</StartupObject>
   </PropertyGroup>
 
 </Project>

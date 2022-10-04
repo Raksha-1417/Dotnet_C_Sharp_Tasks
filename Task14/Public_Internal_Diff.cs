@@ -12,7 +12,7 @@ namespace Dotnet_C_Sharp_Tasks.Task14
         public int age;
         public string name;
         //can access only within the class
-        private int DL;
+      
         public void EmpDetails(int d_age, string d_name)
         {
             age = d_age;
